@@ -12,3 +12,16 @@ It includes some algorithms DDQN, A2C, Policy based, Value based and the most fu
 ### Environment
 
 Most of the environment is simulated with basic python while some of it is simulated with openai's gym.
+
+### Examples 
+![blackjack](pictures/monte_carlo_control.png)
+Blackjack using monte_carlo control
+
+![dense reward](pictures/cartpole dense reward.png)
+Cartpole dense reward problem
+
+![sparse reward](pictures/cartpole sparse reward.png)
+Mountain Climber sparse reward problem
+
+![breakout](pictures/breakoutDDQN.png)
+Breakout using DDQN and Experience replay
