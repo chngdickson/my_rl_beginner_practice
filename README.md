@@ -22,19 +22,23 @@ here the images of some of the projects that I have done within this directory.
 
 ##### Blackjack
 This image demonstrated monte carlo control being used to demonstrate the best state we want to be in a blackjack game.
+
 ![blackjack](pictures/monte_carlo_control.png)
 
 ##### Cartpole
 Cartpole is a wonderful experiment to demonstate a dense reward problem.
 Dense reward is where there is a lot of positive rewards in the reward system on a constant basis.
+
 ![dense reward](pictures/cartpole.png)
 
 ##### Mountain Climber 
 While cartpole demonstrates dense reward, Mountain climber is used for states which presents a sparse reward.
 Much like how dota 2 will only give a reward when a kill happened, tower being taken down or a throne being taken down to achieve victory.
+
 ![sparse reward](pictures/mountain.png)
 
 ##### Breakout 
 In this, Vision algorithm was used such as DDQN paired with Experience replay .
+
 ![breakout](pictures/breakoutDDQN.png)
 
