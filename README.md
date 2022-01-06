@@ -12,3 +12,6 @@ It includes some algorithms DDQN, A2C, Policy based, Value based and the most fu
 ### Environment
 
 Most of the environment is simulated with basic python while some of it is simulated with openai's gym.
+
+### Examples 
+![blackjack](pictures/monte_carlo_control.png)
