@@ -14,14 +14,27 @@ It includes some algorithms DDQN, A2C, Policy based, Value based and the most fu
 Most of the environment is simulated with basic python while some of it is simulated with openai's gym.
 
 ### Examples 
-![blackjack](pictures/monte_carlo_control.png)
+here the images of some of the projects that I have done within this directory.
 * Blackjack using monte_carlo control
-
-![dense reward](pictures/cartpole.png)
 * Cartpole dense reward problem
-
-![sparse reward](pictures/mountain.png)
 * Mountain Climber sparse reward problem
-
-![breakout](pictures/breakoutDDQN.png)
 * Breakout using DDQN and Experience replay
+
+##### Blackjack
+This image demonstrated monte carlo control being used to demonstrate the best state we want to be in a blackjack game.
+![blackjack](pictures/monte_carlo_control.png)
+
+##### Cartpole
+Cartpole is a wonderful experiment to demonstate a dense reward problem.
+Dense reward is where there is a lot of positive rewards in the reward system on a constant basis.
+![dense reward](pictures/cartpole.png)
+
+##### Mountain Climber 
+While cartpole demonstrates dense reward, Mountain climber is used for states which presents a sparse reward.
+Much like how dota 2 will only give a reward when a kill happened, tower being taken down or a throne being taken down to achieve victory.
+![sparse reward](pictures/mountain.png)
+
+##### Breakout 
+In this, Vision algorithm was used such as DDQN paired with Experience replay .
+![breakout](pictures/breakoutDDQN.png)
+
