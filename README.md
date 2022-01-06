@@ -17,10 +17,10 @@ Most of the environment is simulated with basic python while some of it is simul
 ![blackjack](pictures/monte_carlo_control.png)
 Blackjack using monte_carlo control
 
-![dense reward](pictures/cartpole dense reward.png)
+![dense reward](pictures/cartpole.png)
 Cartpole dense reward problem
 
-![sparse reward](pictures/cartpole sparse reward.png)
+![sparse reward](pictures/mountain.png)
 Mountain Climber sparse reward problem
 
 ![breakout](pictures/breakoutDDQN.png)
