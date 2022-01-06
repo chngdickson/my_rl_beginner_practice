@@ -15,3 +15,13 @@ Most of the environment is simulated with basic python while some of it is simul
 
 ### Examples 
 ![blackjack](pictures/monte_carlo_control.png)
+Blackjack using monte_carlo control
+
+![dense reward](pictures/cartpole dense reward.png)
+Cartpole dense reward problem
+
+![sparse reward](pictures/cartpole sparse reward.png)
+Mountain Climber sparse reward problem
+
+![breakout](pictures/breakout DDQN.png)
+Breakout using DDQN and Experience replay
