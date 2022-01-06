@@ -23,5 +23,5 @@ Cartpole dense reward problem
 ![sparse reward](pictures/cartpole sparse reward.png)
 Mountain Climber sparse reward problem
 
-![breakout](pictures/breakout_DDQN.png)
+![breakout](pictures/breakoutDDQN.png)
 Breakout using DDQN and Experience replay
